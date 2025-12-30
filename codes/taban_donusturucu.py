@@ -20,14 +20,14 @@ def onluk_tabani_donustur(sayi, taban): # Bu fonksiyon onluk bir sayıyı istene
 def ikilik_bellek_gosterimi(ikilik_sayi): #  Kaç bitlik kutucuk gerektiğini bulur, sola sıfır ekler
     bit_sayisi = len(ikilik_sayi) # İkilik sayının kaç basamaklı olduğunu bulur
 
-    if bit_sayisi <= 4:
+    if bit_sayisi <= 4: # 4 bitten küçük veya eşitse, 4 bitlik kutucuk
         kutucuk = 4
-    elif bit_sayisi <= 8:
+    elif bit_sayisi <= 8: # 8 bitten küçük veya eşitse, 8 bitlik kutucuk
         kutucuk = 8
-    elif bit_sayisi <= 16:
+    elif bit_sayisi <= 16: # 16 bitten küçük veya eşitse, 16 bitlik kutucuk
         kutucuk = 16
     else:
-        kutucuk = 32
+        kutucuk = 32 # 32 bitten küçük veya eşitse, 32 bitlik kutucuk
 
     while len(ikilik_sayi) < kutucuk: # Seçilen kutucuk boyutuna gelene kadar sola 0 ekle, bellekte böyle saklanır
         ikilik_sayi = "0" + ikilik_sayi
