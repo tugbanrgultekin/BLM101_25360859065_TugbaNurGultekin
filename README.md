@@ -35,7 +35,7 @@
  - İkinci adımda terslenmiş sayıya ikilik düzende 1 eklenir.
  - Toplama işlemi en sağ bitten sola doğru, elde mantığıyla yapılır.
  - Bit sayısı değişmez, en soldaki bit işaret biti olur.
-         0 ise -> pozitif | 1 ise -> negatif
+        - 0 ise -> pozitif | 1 ise -> negatif
  - Bu yöntem sayesinde bilgisayarda çıkarma işlemi, toplama ile aynı donanım kullanılarak yapılır.
  ##Bellek (Bit) Gösterimi Mantığı
  Dönüştürülen sayının ikilik karşılığına bakılarak bellekte kaç bitlik alan kapladığı belirlenir.
