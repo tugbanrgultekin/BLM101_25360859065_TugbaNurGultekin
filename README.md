@@ -29,8 +29,8 @@
  -İki'nin tümleyeni, bilgisayarlarda negatif sayıların ikilik bellekte gösterilmesi için kullanılan yöntemdir.
  -Algoritma sabit bit uzunluğu kullanılarak uygulanır.(4,8,16,32)
  İlk adımda ikilik sayının tüm bitleri ters çevirilir:
-     0->1
-     1->0
+    - 0->1
+    - 1->0
  - Bu işlem sonucunda sayının bir'in tümleyeni elde edilir.
  - İkinci adımda terslenmiş sayıya ikilik düzende 1 eklenir.
  - Toplama işlemi en sağ bitten sola doğru, elde mantığıyla yapılır.
