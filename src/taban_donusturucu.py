@@ -53,11 +53,8 @@ def ikinin_tumleyeni(ikilik_sayi): # Bu fonksiyonun amacı pozitif bir sayının
             sonuc[i] = "1"
             elde = 0
 
-    return "".join(sonuc) # Liste tekrar stringe çevirilir
-
-
-# ---------------- ANA PROGRAM ----------------
-
+    return "".join(sonuc) # Liste tekrar string çevirir
+#---------------------------------------------------------------------------------------------------
 sayi = int(input("Onluk tabanda bir sayı giriniz (pozitif veya negatif): ")) # Kullanıcıdan sayı alma
 
 print("\n1 - İkilik (Binary)")
