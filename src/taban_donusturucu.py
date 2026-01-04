@@ -76,7 +76,7 @@ if secim == "1":
 
     if sayi < 0:
         ikinin_tumleyeni_bellek = ikinin_tumleyeni(bellek)
-        print("Bellek Gösterimi (İki'nin Tümleyeni):", ikinin_tumleyeni_bellek)
+        print("Bellek Gösterimi (İki'nin Tümleyeni):", ikinin_tumleyeni_bellek) # Eğer sayı negatifse, bellek gösterimini iki'nin tümleyeni mantığıyla hesapla
     else:
         print("Bellek Gösterimi:", bellek) # Bellekteki halini yazdır
 
@@ -90,7 +90,7 @@ elif secim == "2":
 
     if sayi < 0:
         ikinin_tumleyeni_bellek = ikinin_tumleyeni(bellek)
-        print("Bellek Gösterimi (İki'nin Tümleyeni):", ikinin_tumleyeni_bellek) #
+        print("Bellek Gösterimi (İki'nin Tümleyeni):", ikinin_tumleyeni_bellek) # Eğer sayı negatifse, bellek gösterimini iki'nin tümleyeni mantığıyla hesapla
     else:
         print("Bellek Gösterimi:", bellek) # Bellek görünümünü yazdır
 
