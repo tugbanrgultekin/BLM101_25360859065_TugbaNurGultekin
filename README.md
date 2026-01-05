@@ -52,5 +52,4 @@
 - Kullanıcı için kullanışlı ve açıklamalı bir yapısı bulunmaktadır.
 - Program basit yapıda olmasına rağmen, temel bilgisayar bilimleri konularını anlamaya yardımcı olmaktadır.
 > “All information can be represented by sequences of binary digits; the manipulation of these bits using logical operations is the essence of digital computation.”                                                                             
-> “Tüm bilgi ikilik basamaklar (bitler) ile temsil edilebilir; bu bitlerin mantıksal işlemlerle işlenmesi dijital hesaplamanın özüdür.”
->  ~Claude Shannon
+> “Tüm bilgi ikilik basamaklar (bitler) ile temsil edilebilir; bu bitlerin mantıksal işlemlerle işlenmesi dijital hesaplamanın özüdür.”             ~Claude Shannon
