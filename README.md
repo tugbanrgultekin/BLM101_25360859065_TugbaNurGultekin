@@ -44,13 +44,13 @@
    - 8 bitten küçük veya eşitse -> 8 bit
    - 16 bitten küçük veya eşitse -> 16 bit
    - Daha büyükse 32 bit
-Seçilen bit uzunluğuna ulaşana kadar ikilik sayının soluna '0' eklenir. Bu işlem bellekte saklama mantığını temsil etmektedir.
+ - Seçilen bit uzunluğuna ulaşana kadar ikilik sayının soluna '0' eklenir. Bu işlem bellekte saklama mantığını temsil etmektedir.
 ## Program Özellikleri
 - Onluk tabandan ikilik ve onaltılık tabana dönüşüm yapar.
 - 'bin()' ve 'hex()' fonksiyonları kullanılmaz.
 - Pozitif ve negatif sayılarla çalışır.
 - Kullanıcı için kullanışlı ve açıklamalı bir yapısı bulunmaktadır.
-Program basit yapıda olmasına rağmen, temel bilgisayar bilimleri konularını anlamaya yardımcı olmaktadır.
+  - Program basit yapıda olmasına rağmen, temel bilgisayar bilimleri konularını anlamaya yardımcı olmaktadır.
 > “All information can be represented by sequences of binary digits; the manipulation of these bits using logical operations is the essence of digital computation.”                                                                             
 > “Tüm bilgi ikilik basamaklar (bitler) ile temsil edilebilir; bu bitlerin mantıksal işlemlerle işlenmesi dijital hesaplamanın özüdür.”
                                                                                                                     ~Claude Shannon
