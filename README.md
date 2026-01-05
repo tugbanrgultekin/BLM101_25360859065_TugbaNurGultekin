@@ -10,7 +10,7 @@
  Bu projede Python programlama dili kullanılarak, kullanıcının girdiği onluk tabandaki bir sayıyı ikilik (binary) veya onaltılık (hexadecimal) tabana dönüştüren bir hesap makinesi geliştirilmiştir.
  Proje hazırlanışında Python'un hazır 'bin()' ve 'hex()' fonksiyonları kullanılmamıştır. Taban dönüşümü işlemleri tamamen matematiksel döngüler ile ifade edilmiştir. Ek olarak dönüştürülen sayının bellekte kaç bitlik alan kapladığı ve sayının bellekte nasıl saklandığı kod çıktısı olarak kullanıcıya gösterilebilmektedir.
  ## Kullanılan Kütüphaneler
- Bu projede herhangi bir harici kütüphane kullanılmamıştır. Python'un zaten içerisinde bulunan 'input(), print(), abs(),len()' gibi yerleşik fonksiyonlar yeterli olmuştur. Bu nedenle kodu şahsi cihazınızda çalıştırmak için ek bir kurulum gerekmemektedir.
+ Bu projede herhangi bir harici kütüphane kullanılmamıştır. Python'un zaten içerisinde bulunan 'input(), print(), abs(), len()' gibi yerleşik fonksiyonlar yeterli olmuştur. Bu nedenle kodu şahsi cihazınızda çalıştırmak için ek bir kurulum gerekmemektedir.
  ## Program Çalışma Mantığı
  - Program çalıştığında öncelikle kullanıcıdan onluk tabanda bir sayı girilmesi istenir. 
  - Girilen sayı pozitif veya negatif olabilir. 
