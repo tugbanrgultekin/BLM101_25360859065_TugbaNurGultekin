@@ -26,9 +26,9 @@
  5. Bulunan kalanlar tersten okunarak sonuç oluşturulur.
  Onaltılık taban dönüşümünde 10-15 arası değerler 'A,B,C,D,E,F' karakterleri ile gösterilir.
  ## Bellekte Kapladığı Alan
- -İki'nin tümleyeni, bilgisayarlarda negatif sayıların ikilik bellekte gösterilmesi için kullanılan yöntemdir.
- -Algoritma sabit bit uzunluğu kullanılarak uygulanır.(4,8,16,32)
- İlk adımda ikilik sayının tüm bitleri ters çevirilir:
+ - İki'nin tümleyeni, bilgisayarlarda negatif sayıların ikilik bellekte gösterilmesi için kullanılan yöntemdir.
+ - Algoritma sabit bit uzunluğu kullanılarak uygulanır.(4,8,16,32)
+ - İlk adımda ikilik sayının tüm bitleri ters çevirilir:
     - 0->1
     - 1->0
  - Bu işlem sonucunda sayının bir'in tümleyeni elde edilir.
@@ -39,11 +39,11 @@
  - Bu yöntem sayesinde bilgisayarda çıkarma işlemi, toplama ile aynı donanım kullanılarak yapılır.
  ## Bellek (Bit) Gösterimi Mantığı
  Dönüştürülen sayının ikilik karşılığına bakılarak bellekte kaç bitlik alan kapladığı belirlenir.
- Kullanılan kurallar:
- - 4 bitten küçük veya eşitse -> 4 bit
- - 8 bitten küçük veya eşitse -> 8 bit
- - 16 bitten küçük veya eşitse -> 16 bit
- - Daha büyükse 32 bit
+ - Kullanılan kurallar:
+   - 4 bitten küçük veya eşitse -> 4 bit
+   - 8 bitten küçük veya eşitse -> 8 bit
+   - 16 bitten küçük veya eşitse -> 16 bit
+   - Daha büyükse 32 bit
 Seçilen bit uzunluğuna ulaşana kadar ikilik sayının soluna '0' eklenir. Bu işlem bellekte saklama mantığını temsil etmektedir.
 ## Program Özellikleri
 - Onluk tabandan ikilik ve onaltılık tabana dönüşüm yapar.
