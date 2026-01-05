@@ -25,7 +25,7 @@
  4. Bu işlem sayı 0 (sıfır) olana kadar devam eder.
  5. Bulunan kalanlar tersten okunarak sonuç oluşturulur.
  Onaltılık taban dönüşümünde 10-15 arası değerler 'A,B,C,D,E,F' karakterleri ile gösterilir.
- ## Bellekte Kapladığı Alan
+ ## Bellekte Kapladığı Alan Algoritması
  - İki'nin tümleyeni, bilgisayarlarda negatif sayıların ikilik bellekte gösterilmesi için kullanılan yöntemdir.
  - Algoritma sabit bit uzunluğu kullanılarak uygulanır.(4,8,16,32)
  - İlk adımda ikilik sayının tüm bitleri ters çevirilir:
@@ -35,7 +35,7 @@
  - İkinci adımda terslenmiş sayıya ikilik düzende 1 eklenir.
  - Toplama işlemi en sağ bitten sola doğru, elde mantığıyla yapılır.
  - Bit sayısı değişmez, en soldaki bit işaret biti olur.
-        - 0 ise -> pozitif | 1 ise -> negatif
+        - 0 ise -> pozitif  - 1 ise -> negatif
  - Bu yöntem sayesinde bilgisayarda çıkarma işlemi, toplama ile aynı donanım kullanılarak yapılır.
  ## Bellek (Bit) Gösterimi Mantığı
  Dönüştürülen sayının ikilik karşılığına bakılarak bellekte kaç bitlik alan kapladığı belirlenir.
