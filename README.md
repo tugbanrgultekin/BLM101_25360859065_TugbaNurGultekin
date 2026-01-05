@@ -18,7 +18,7 @@
     1. İkilik Tabana Dönüştürme 
     2. Onaltılık Tabana Dönüştürme
  - Seçim sonucu ikilik (binary), onaltılık (hexadecimal) dönüşüm değeri, bellekte saklanması iki'nin tümleyeni (two's complement) şeklinde, kaç bitlik kutucuklar halinde saklandığı gösterilir.
- ##Taban Dönüştürme Algoritması
+ ## Taban Dönüştürme Algoritması
  1. Sayı hedef tabana tamsayı bölmesi ile bölünür.
  2. Bölme işleminde kalan değer bulunur.
  3. Kalan değer, yeni tabandaki basamak değerini temsil eder.
