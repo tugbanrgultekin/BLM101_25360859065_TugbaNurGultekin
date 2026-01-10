@@ -1,8 +1,8 @@
 # BLM101_25360859065_TugbaNurGultekin
-- *Ad/Soyad: Tuğba Nur Gültekin*
-- *Numara: 25360859065*
-- *Proje Konusu: Veri Depolama ve Sayısal Sistemler (1. Proje)*
-- *Video Linki:* https://www.youtube.com/watch?v=T9j5QHsJwz8
+- Ad/Soyad: Tuğba Nur Gültekin
+- Numara: 25360859065
+- Proje Konusu: Veri Depolama ve Sayısal Sistemler (1. Proje)
+- Video Linki: https://www.youtube.com/watch?v=T9j5QHsJwz8
 # PROJE AÇIKLAMASI
 ## Projenin Amacı
  Bu projede Python programlama dili kullanılarak, kullanıcının girdiği onluk tabandaki bir sayıyı ikilik (binary) veya onaltılık (hexadecimal) tabana dönüştüren bir hesap makinesi geliştirilmiştir.
