@@ -6,6 +6,7 @@
 - *Öğretim Üyesi: Prof. Dr. Turgay Tugay Bilgin*
 - *Proje Konusu: Veri Depolama ve Sayısal Sistemler (1. Proje)*
 - *Okul Adı: BURSA TEKNİK ÜNİVERSİTESİ*
+- Video Linki: https://www.youtube.com/@TuğbaNurGültekin
 # KOD AÇIKLAMASI
 ## Projenin Amacı
  Bu projede Python programlama dili kullanılarak, kullanıcının girdiği onluk tabandaki bir sayıyı ikilik (binary) veya onaltılık (hexadecimal) tabana dönüştüren bir hesap makinesi geliştirilmiştir.
